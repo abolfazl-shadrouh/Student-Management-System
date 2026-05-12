@@ -17,7 +17,7 @@ This project focuses on practicing **core Java fundamentals** while building a r
 - [📁 Project Structure](#-project-structure)
 - [🚀 How to Run](#-how-to-run)
 - [🛠 Future Enhancements](#-future-enhancements)
-- [🧑‍💻 About Me](#-About-the-Developer)
+- [🧑‍💻 About Me](#-about-the-developer)
 - [📜 License](#-license)
 
 ---
@@ -50,10 +50,6 @@ Student-Management-System/
 └── README.md # Project documentation
 
 ---
-
-## 🚀 How to Run
-حتماً 👌 این نسخه **کامپایل و ران جدا شده** و تمیزه:
-
 
 ## 🚀 How to Run
 
