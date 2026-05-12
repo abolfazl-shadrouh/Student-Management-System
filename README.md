@@ -45,9 +45,9 @@ This project focuses on practicing **core Java fundamentals** while building a r
 ## 📁 Project Structure
 Student-Management-System/
 
-├── StudentManager.java # Main application logic
+├── StudentManager.java
 
-└── README.md # Project documentation
+└── README.md
 
 ---
 
