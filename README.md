@@ -17,7 +17,7 @@ This project focuses on practicing **core Java fundamentals** while building a r
 - [📁 Project Structure](#-project-structure)
 - [🚀 How to Run](#-how-to-run)
 - [🛠 Future Enhancements](#-future-enhancements)
-- [🧑‍💻 About the -about-the-developer)
+- [🧑‍💻 About Me](#https://shadrouh.ir)
 - [📜 License](#-license)
 
 ---
