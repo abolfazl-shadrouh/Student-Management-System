@@ -1,8 +1,8 @@
 # 🎓 Student Management System – Java Console Application
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Student-Management-System?style=social)](https://github.com/your-username/Student-Management-System/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/Student-Management-System?style=social)](https://github.com/your-username/Student-Management-System/network)
-[![License](https://img.shields.io/github/license/your-username/Student-Management-System)](https://github.com/your-username/Student-Management-System/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh/Student-Management-System?style=social)](https://github.com/abolfazl-shadrouh/Student-Management-System/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abolfazl-shadrouh/Student-Management-System?style=social)](https://github.com/abolfazl-shadrouh/Student-Management-System/network)
+[![License](https://img.shields.io/github/license/abolfazl-shadrouh/Student-Management-System)](https://github.com/abolfazl-shadrouh/Student-Management-System/blob/main/LICENSE)
 
 **Welcome to the Student Management System!**  
 A clean and beginner-friendly **Java console application** designed to manage students, store their scores, and calculate averages.  
