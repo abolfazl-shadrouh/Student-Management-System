@@ -75,7 +75,7 @@ To run locally:
 
 ---
 
-## 🧑‍💻 About the Developer
+## 🧑‍💻 About The Developer
 
 **Abolfazl Shadrouh**  
 Full-Stack Web Developer | Open Source Enthusiast | Learning Java
