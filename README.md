@@ -17,7 +17,7 @@ This project focuses on practicing **core Java fundamentals** while building a r
 - [📁 Project Structure](#-project-structure)
 - [🚀 How to Run](#-how-to-run)
 - [🛠 Future Enhancements](#-future-enhancements)
-- [🧑‍💻 About Me](#https://shadrouh.ir)
+- [🧑‍💻 About Me](#-About-the-Developer)
 - [📜 License](#-license)
 
 ---
@@ -79,11 +79,10 @@ To run locally:
 
 ---
 
-## 🧑‍💻 About the Developer Abolfazl Shadrouh
+## 🧑‍💻 About the Developer
 
-Java Developer | Learning Software Engineering
-
-Made with ❤️ while learning Java
+**Abolfazl Shadrouh**  
+Full-Stack Web Developer | Open Source Enthusiast | Learning Java
 
 ---
 
