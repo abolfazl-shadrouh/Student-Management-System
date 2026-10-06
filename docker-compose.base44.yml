@@ -1,0 +1,14 @@
+services:
+  app:
+    image: eclipse-temurin:21-jdk
+    working_dir: /app
+    volumes:
+      - ./:/app
+    command: ["sh", "-ec", "javac StudentManager.java && echo 'Compiled OK' && sleep infinity"]
+    healthcheck:
+      test: ["CMD", "sh", "-c", "test -f /app/StudentManager.class"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: on-failure
